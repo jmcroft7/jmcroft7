@@ -1,6 +1,6 @@
 # Hi, I’m Johnathan!👋
 > - 🌱 I'm currently learning web-dev!
-> - 😄 Currently know: HTML, CSS, and learning python!
+> - 😄 Currently know: HTML, CSS, and learning Python!
 > - ☕ Food, fitness, and coding are all passions of mine!
 
 <!---
