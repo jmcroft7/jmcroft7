@@ -1,6 +1,6 @@
 # Hi, I’m Johnathan!👋
-> - 🌱 I'm currently learning front-end!
-> - 😄 Soon to be expert in front-end!
+> - 🌱 I'm currently learning web-dev!
+> - 😄 Currently know: HTML, CSS, and learning python!
 > - ☕ Food, fitness, and coding are all passions of mine!
 
 <!---
