@@ -1,13 +1,13 @@
-# Hi, I’m Johnathan!👋
+<!-- # Hi, I’m Johnathan!👋
 > - 🌱 I'm currently learning web-dev!
 > - 😄 Currently know: HTML, CSS, and learning Python!
 > - ☕ Food, fitness, and coding are all passions of mine!
-
+ -->
+ 
 <!---
 jmcroft7/jmcroft7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-> > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcroft7&layout=compact&text_color=daf7dc&bg_color=151515&style=plastic&logo=appveyor)](https://github.com/jmcroft7)
 
 [![Visits Badge](https://badges.pufler.dev/visits/jmcroft7/jmcroft7)](https://badges.pufler.dev)
 
@@ -43,7 +43,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jmcroft7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jmcroft7" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmcroft7&show_icons=true&locale=en&layout=compact" alt="a" /></p>
+> > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcroft7&layout=compact&text_color=daf7dc&bg_color=151515&style=plastic&logo=appveyor)](https://github.com/jmcroft7)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=0e75b6&style=flat" alt="a" /> </p>
 
