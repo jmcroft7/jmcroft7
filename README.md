@@ -9,10 +9,7 @@ jmcroft7/jmcroft7 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Visits Badge](https://badges.pufler.dev/visits/jmcroft7/jmcroft7)](https://badges.pufler.dev)
-
-
-<h1 align="center">Hi 👋, I'm a</h1>
+<h1 align="center">Hi 👋, I'm Johnathan!</h1>
 
 - 🔭 I’m currently working on **Reactjs**
 
