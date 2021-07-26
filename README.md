@@ -6,16 +6,28 @@
 </p>
 
 <h3><u><b>About me</b></u> </h3>
-
-- 💻 **Full-stack software developer**
-- 🌱 I’m currently expanding my knowledge on **Reactjs**
-- 👨‍💻 Portfolio soon?
-- 🏓 My hobbies include **working out** and **chess**.
-- 📄 resume/portfolio link?
-- ☕ Food, fitness, and coding are all passions of mine!
-- 💬 If you have any questions, just ask me.
-- 📫 Please contact me via email
-
+<ul>
+  
+ 💻 **Full-stack software developer**
+  <br>
+🌱 I’m currently expanding my knowledge on **Reactjs**
+  <br>
+👨‍💻 Portfolio soon?
+  <br>
+🏓 My hobbies include **working out**, **chess**, and **league of legends**.
+  <br>
+📄 resume/portfolio link?
+  <br>
+☕ **Food**, **fitness**, and **coding** are all passions of mine!
+  <br>
+💬 If you have any questions, just ask me.
+  <br>
+📫 Please contact me via email
+  <br>
+⚡ Fun fact: I am pretty good at **ping pong**!
+  <br>
+  
+</ul>
 
 
 <h3 align="left"><u><b>Proficient languages</b></u></h3>
