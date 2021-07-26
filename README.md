@@ -4,7 +4,7 @@
 <p align="right"> <a href="https://twitter.com/jmcroft7" target="blank"><img src="https://img.shields.io/twitter/follow/jmcroft7?logo=twitter&style=for-the-badge" alt="aa" /></a> </p>
 
 
-<h3> 📕 About me </h3>
+<h3 align="left"> 📕 About me </h3>
 
 - 💻 **Full-stack software developer**
 - 🌱 I’m currently expanding my knowledge on **Reactjs**
