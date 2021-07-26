@@ -51,4 +51,6 @@
 
 <h3> <u><b>Support:</b></u></h3>
 
+<ul>
 <p><a href="https://www.buymeacoffee.com/jmcroft7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jmcroft7" /></a></p>
+<ul>
