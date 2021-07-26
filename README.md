@@ -2,10 +2,10 @@
 
 <p> 
   <img aling="left" src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=0e75b6&style=flat" alt="a" />
-  <a href="https://twitter.com/jmcroft7" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/jmcroft7?logo=twitter&style=for-the-badge" alt="aa" /></a> </p>
+  <a href="https://twitter.com/jmcroft7" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/jmcroft7?logo=twitter&style=for-the-badge" alt="aa" /></a>
+</p>
 
-
-<h3 align="left"> 📕 About me </h3>
+<h3> 📕 <u><b>About me</b></u> </h3>
 
 - 💻 **Full-stack software developer**
 - 🌱 I’m currently expanding my knowledge on **Reactjs**
@@ -18,14 +18,18 @@
 
 
 
-<h3 align="left">📘 Proficient languages </h3>
+<h3 align="left">📘<u><b>Proficient languages</b></u></h3>
+<ul>
 
 [![HTML](https://img.shields.io/badge/-HTML5-F06529?style=plastic-square&logo=html5&logoColor=ffffff)](https://www.github.com/jmcroft7)
 [![CSS](https://img.shields.io/badge/-CSS-2965f1?style=plastic-square&logo=css3&logoColor=ffffff)](https://www.github.com/jmcroft7)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=plastic-square&logo=javascript&logoColor=000000)](https://www.github.com/jmcroft7)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic-square&logo=python&logoColor=ffffff)](https://www.github.com/jmcroft7)
 
-<h3 align="left">📗 Proficient technologies </h3>
+</ul>
+
+<h3 align="left">📗<u><b>Proficient technologies</b></u> </h3>
+<ul>
 
 [![React](https://img.shields.io/badge/-React-4285f4?style=plastic-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=plastic-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
@@ -42,9 +46,9 @@
 [![aws](https://img.shields.io/badge/-AWS-3776AB?style=plastic-square&logo=amazonaws&logoColor=ffffff)](https://aws.amazon.com/)
 [![nginx](https://img.shields.io/badge/-nginx-47A248?style=plastic-square&logo=nginx&logoColor=ffffff)](https://www.nginx.com/)
 
+</ul>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcroft7&layout=compact&text_color=daf7dc&bg_color=151515&style=plastic&logo=appveyor)](https://github.com/jmcroft7)
+<h3>📙 <u><b>Support:</b></u></h3>
 
-<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jmcroft7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jmcroft7" /></a></p>
