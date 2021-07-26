@@ -5,7 +5,7 @@
   <a href="https://twitter.com/jmcroft7" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/jmcroft7?logo=twitter&style=for-the-badge" alt="aa" /></a>
 </p>
 
-<h3> 📕 <u><b>About me</b></u> </h3>
+<h3><u><b>About me</b></u> </h3>
 
 - 💻 **Full-stack software developer**
 - 🌱 I’m currently expanding my knowledge on **Reactjs**
@@ -18,7 +18,7 @@
 
 
 
-<h3 align="left">📘<u><b>Proficient languages</b></u></h3>
+<h3 align="left"><u><b>Proficient languages</b></u></h3>
 <ul>
 
 [![HTML](https://img.shields.io/badge/-HTML5-F06529?style=plastic-square&logo=html5&logoColor=ffffff)](https://www.github.com/jmcroft7)
@@ -28,7 +28,7 @@
 
 </ul>
 
-<h3 align="left">📗<u><b>Proficient technologies</b></u> </h3>
+<h3 align="left"><u><b>Proficient technologies</b></u> </h3>
 <ul>
 
 [![React](https://img.shields.io/badge/-React-4285f4?style=plastic-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
@@ -49,6 +49,6 @@
 </ul>
 
 
-<h3>📙 <u><b>Support:</b></u></h3>
+<h3> <u><b>Support:</b></u></h3>
 
 <p><a href="https://www.buymeacoffee.com/jmcroft7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jmcroft7" /></a></p>
