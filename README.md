@@ -14,11 +14,11 @@
   <br>
 👨‍💻 Portfolio soon?
   <br>
+☕ **Food**, **fitness**, and **coding** are all passions of mine!
+  <br>
 🏓 My hobbies include **working out**, **chess**, and **league of legends**.
   <br>
 📄 resume/portfolio link?
-  <br>
-☕ **Food**, **fitness**, and **coding** are all passions of mine!
   <br>
 💬 If you have any questions, just ask me.
   <br>
