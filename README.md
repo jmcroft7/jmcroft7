@@ -49,9 +49,9 @@
 [![Node](https://img.shields.io/badge/-Node.js-68a063?style=plastic-square&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/en/)
 [![Express](https://img.shields.io/badge/-Express.js-303030?style=plastic-square&logo=express&logoColor=ffffff)](https://expressjs.com/)
 
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 [![Postman](https://img.shields.io/badge/-Postman-F06529?style=plastic-square&logo=postman&logoColor=ffffff)](https://www.postman.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=plastic-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![linux](https://img.shields.io/badge/-Linux-000000?style=plastic-square&logo=linux&logoColor=ffffff)](https://ubuntu.com/)
