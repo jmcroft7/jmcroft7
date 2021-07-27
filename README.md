@@ -43,7 +43,7 @@
 <h3 align="left"><u><b>Proficient technologies</b></u> </h3>
 <ul>
 
-[![React](https://img.shields.io/badge/-React-4285f4?style=plastic-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/-React-57b2cc?style=plastic-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=plastic-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
 
 [![Node](https://img.shields.io/badge/-Node.js-68a063?style=plastic-square&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/en/)
