@@ -56,7 +56,9 @@
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=plastic-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![linux](https://img.shields.io/badge/-Linux-000000?style=plastic-square&logo=linux&logoColor=ffffff)](https://ubuntu.com/)
 [![aws](https://img.shields.io/badge/-AWS-3776AB?style=plastic-square&logo=amazonaws&logoColor=ffffff)](https://aws.amazon.com/)
-[![nginx](https://img.shields.io/badge/-nginx-47A248?style=plastic-square&logo=nginx&logoColor=ffffff)](https://www.nginx.com/)
+[![nginx](https://img.shields.io/badge/-Nginx-47A248?style=plastic-square&logo=nginx&logoColor=ffffff)](https://www.nginx.com/)
+  
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7410f0?style=plastic-square&logo=bootstrap&logoColor=ffffff)](https://getbootstrap.com/)
 
 </ul>
 
