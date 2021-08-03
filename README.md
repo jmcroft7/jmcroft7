@@ -37,7 +37,9 @@
 [![HTML](https://img.shields.io/badge/-HTML5-F06529?style=plastic-square&logo=html5&logoColor=ffffff)](https://www.github.com/jmcroft7)
 [![CSS](https://img.shields.io/badge/-CSS-2965f1?style=plastic-square&logo=css3&logoColor=ffffff)](https://www.github.com/jmcroft7)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=plastic-square&logo=javascript&logoColor=000000)](https://www.github.com/jmcroft7)
+
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic-square&logo=python&logoColor=ffffff)](https://www.github.com/jmcroft7)
+[![Java](https://img.shields.io/badge/-Java-339999?style=plastic-square&logo=java&logoColor=ffffff)](https://www.github.com/jmcroft7)
 
 </ul>
 
