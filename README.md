@@ -1,12 +1,13 @@
 <h1 align="center">👋 Hi, I'm Johnathan!</h1>
 
 <p> 
-  <img aling="left" src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=0e75b6&style=flat" alt="a" />
+  <img src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=499b4a&style=flat" alt="a" />
   <a href="https://twitter.com/jmcroft7" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/jmcroft7?logo=twitter&style=for-the-badge" alt="aa" /></a>
 </p>
 
 <h3><u><b>About me</b></u> </h3>
 <ul>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcroft7&hide=html&theme=dracula&layout=default"/>
   
  💻 **Full-stack software developer**
   <br>
@@ -63,8 +64,6 @@
 </ul>
 
 
-<h3> <u><b>Support:</b></u></h3>
-
-<ul>
-<p><a href="https://www.buymeacoffee.com/jmcroft7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jmcroft7" /></a></p>
-<ul>
+<h3><u><b>Support:</b></u></h3>
+  
+<p><a href="https://www.buymeacoffee.com/jmcroft7"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jmcroft7" /></a></p>
