@@ -12,7 +12,7 @@
   <br>
 🌱 I’m currently expanding my knowledge on **Java**
   <br>
-👨‍💻 Portfolio:  <a href="https://jmcroft7.github.io/portfolio/" target="blank">click here!</a>
+👨‍💻 Portfolio:  <a href="https://jmcroft7.github.io/portfolio/" target="blank">**click here!**</a>
   <br>
 ☕ **Food**, **fitness**, and **coding** are all passions of mine!
   <br>
