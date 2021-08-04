@@ -58,9 +58,9 @@
 <h2 align="left"><u><b>Databases</b></u> </h2>
 <ul>
 
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 [![Postman](https://img.shields.io/badge/-Postman-F06529?style=plastic-square&logo=postman&logoColor=ffffff)](https://www.postman.com/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 
 </ul>
 
