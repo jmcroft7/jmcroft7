@@ -46,7 +46,8 @@
 <ul>
 
 [![React](https://img.shields.io/badge/-React-57b2cc?style=plastic-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
-[![Flask](https://img.shields.io/badge/-Flask-000000?style=plastic-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
+[![Flask](https://img.shields.io/badge/-Flask-111222?style=plastic-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
+[![Spring](https://img.shields.io/badge/-Spring-3C3A3A?style=plastic-square&logo=spring&logoColor=ffffff)](https://spring.io/tools)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7410f0?style=plastic-square&logo=bootstrap&logoColor=ffffff)](https://getbootstrap.com/)
 
 [![Node](https://img.shields.io/badge/-Node.js-68a063?style=plastic-square&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/en/)
@@ -67,11 +68,10 @@
 <h2 align="left"><u><b>Miscellaneous</b></u> </h2>
 <ul>
 
-[![linux](https://img.shields.io/badge/-Linux-000000?style=plastic-square&logo=linux&logoColor=ffffff)](https://ubuntu.com/)
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=plastic-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
-[![Spring](https://img.shields.io/badge/-Spring-3C3A3A?style=plastic-square&logo=spring&logoColor=ffffff)](https://spring.io/tools)
-
 [![aws](https://img.shields.io/badge/-AWS-3776AB?style=plastic-square&logo=amazonaws&logoColor=ffffff)](https://aws.amazon.com/)
+[![linux](https://img.shields.io/badge/-Linux-dd4814?style=plastic-square&logo=linux&logoColor=ffffff)](https://ubuntu.com/)
+  
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=plastic-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![nginx](https://img.shields.io/badge/-Nginx-47A248?style=plastic-square&logo=nginx&logoColor=ffffff)](https://www.nginx.com/)
 
 </ul>
