@@ -8,17 +8,17 @@
 <ul>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcroft7&hide=html&theme=dracula&layout=default"/>
   
- 💻 **Full-stack software developer**
+ 💻 **Full-stack software engineer**
   <br>
 🌱 I’m currently expanding my knowledge on **Java**
   <br>
-👨‍💻 Portfolio:  <a href="https://jmcroft7.github.io/portfolio/" target="blank">**click here!**</a>
+👨‍💻 **Portfolio**:  <a href="https://jmcroft7.github.io/portfolio/" target="blank">**click here!**</a>
   <br>
 ☕ **Food**, **fitness**, and **coding** are all passions of mine!
   <br>
 🏓 My hobbies include **working out**, **chess**, and **movies**!
   <br>
-📄 resume/portfolio link?
+📄 resume link?
   <br>
 💬 If you have any questions, just ask!
   <br>
@@ -73,6 +73,8 @@
   
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=plastic-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![nginx](https://img.shields.io/badge/-Nginx-47A248?style=plastic-square&logo=nginx&logoColor=ffffff)](https://www.nginx.com/)
+  
+[![figma](https://img.shields.io/badge/-Figma-9d56f7?style=plastic-square&logo=figma&logoColor=ffffff)](https://www.nginx.com/)
 
 </ul>
 
