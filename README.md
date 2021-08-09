@@ -1,7 +1,7 @@
 
 <p> 
   <img src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=499b4a&style=flat" alt="a" />
-  <a href="https://twitter.com/jmcroft7" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/jmcroft7?logo=twitter&style=for-the-badge" alt="aa" /></a>
+  <a href="https://twitter.com/DevJohnathan" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/DevJohnathan?logo=twitter&style=for-the-badge" alt="aa" /></a>
 </p>
 
 <h2><u><b>About me</b></u> </h2>
