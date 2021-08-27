@@ -12,34 +12,27 @@
 
 <img src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=499b4a&style=flat" alt="a" />
 
-
-<h2><u><b>About me</b></u> </h2>
+## About Me
 <ul>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcroft7&hide=html&theme=dracula&layout=default"/>
   
- 💻 **Full-stack software engineer**
+- 💻 ***Full-stack software engineer***
   <br>
-🌱 I’m currently expanding my knowledge on **Java**
+- 🌱 I’m currently expanding my knowledge on ***UI/UX Design***
   <br>
-👨‍💻 **Portfolio**:  <a href="https://jmcroft7.github.io/portfolio/" target="blank">**click here!**</a>
+- 🚀 Working on getting my portfolio completed.
   <br>
-☕ **Food**, **fitness**, and **coding** are all passions of mine!
+- ☕ ***Food***, ***fitness***, and ***coding*** are all passions of mine!
   <br>
-🏓 My hobbies include **working out**, **chess**, and **movies**!
-  <br>
-📄 resume link?
-  <br>
-💬 If you have any questions, just ask!
-  <br>
-📫 Please contact me via email
-  <br>
-⚡ Fun fact: I am pretty good at **ping pong**!
-  <br>
+- ⚡ Fun fact, I am very good at ***ping pong*** and ***chess***!
   <br>
   
 </ul>
 
-<h2 align="left"><u><b>Languages</b></u></h2>
+
+## Skillset
+
+#### *Languages*
+
 <ul>
 
 [![HTML](https://img.shields.io/badge/-HTML5-F06529?style=plastic-square&logo=html5&logoColor=ffffff)](https://www.github.com/jmcroft7)
@@ -51,7 +44,9 @@
 
 </ul>
 
-<h2 align="left"><u><b>Frameworks</b></u> </h2>
+
+#### *Frameworks/Libraries*
+
 <ul>
 
 [![React](https://img.shields.io/badge/-React-57b2cc?style=plastic-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
@@ -65,7 +60,9 @@
 
 </ul>
 
-<h2 align="left"><u><b>Databases</b></u> </h2>
+
+#### *Databases*
+
 <ul>
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
@@ -74,19 +71,21 @@
 
 </ul>
 
-<h2 align="left"><u><b>Miscellaneous</b></u> </h2>
+
+#### *Tools*
+
 <ul>
 
-[![aws](https://img.shields.io/badge/-AWS-3776AB?style=plastic-square&logo=amazonaws&logoColor=ffffff)](https://aws.amazon.com/)
-[![linux](https://img.shields.io/badge/-Linux-dd4814?style=plastic-square&logo=linux&logoColor=ffffff)](https://ubuntu.com/)
-  
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=plastic-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
-[![nginx](https://img.shields.io/badge/-Nginx-47A248?style=plastic-square&logo=nginx&logoColor=ffffff)](https://www.nginx.com/)
-  
 [![figma](https://img.shields.io/badge/-Figma-9d56f7?style=plastic-square&logo=figma&logoColor=ffffff)](https://www.nginx.com/)
+[![aws](https://img.shields.io/badge/-AWS-3776AB?style=plastic-square&logo=amazonaws&logoColor=ffffff)](https://aws.amazon.com/)
+[![nginx](https://img.shields.io/badge/-Nginx-47A248?style=plastic-square&logo=nginx&logoColor=ffffff)](https://www.nginx.com/)
+
+[![linux](https://img.shields.io/badge/-Linux-3C3A3A?style=plastic-square&logo=linux&logoColor=ffffff)](https://ubuntu.com/)
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=plastic-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
 </ul>
 
-<h3><u><b>Support:</b></u></h3>
+
+## Support me
   
 <p><a href="https://www.buymeacoffee.com/jmcroft7"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jmcroft7" /></a></p>
