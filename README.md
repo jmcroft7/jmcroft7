@@ -76,13 +76,14 @@
 
 <ul>
 
-[![figma](https://img.shields.io/badge/-Figma-9d56f7?style=plastic-square&logo=figma&logoColor=ffffff)](https://www.nginx.com/)
 [![aws](https://img.shields.io/badge/-AWS-3776AB?style=plastic-square&logo=amazonaws&logoColor=ffffff)](https://aws.amazon.com/)
+  [![Azure](https://img.shields.io/badge/-Azure-007FFF?style=plastic-square&logo=azuredevops&logoColor=ffffff)](https://azure.microsoft.com/en-us/)
 [![nginx](https://img.shields.io/badge/-Nginx-47A248?style=plastic-square&logo=nginx&logoColor=ffffff)](https://www.nginx.com/)
 
 [![linux](https://img.shields.io/badge/-Linux-3C3A3A?style=plastic-square&logo=linux&logoColor=ffffff)](https://ubuntu.com/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=plastic-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
-
+[![figma](https://img.shields.io/badge/-Figma-9d56f7?style=plastic-square&logo=figma&logoColor=ffffff)](https://www.figma.com/)
+  
 </ul>
 
 
