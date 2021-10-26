@@ -17,7 +17,7 @@
   
 - 💻 ***Full-stack software engineer***
   <br>
-- 🌱 I’m currently expanding my knowledge on ***UI/UX Design***
+- 🌱 I’m currently expanding my knowledge on ***Algorithms and Data Structures!***
   <br>
 - 🚀 Working on getting my portfolio completed.
   <br>
