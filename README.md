@@ -1,88 +1,57 @@
-<a href="https://www.twitter.com/devjohnathan">
-<img align="right" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/devjohnathan">
-<img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <img src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=499b4a&style=flat" alt="a" />
 
-## About Me
-<ul>
-  
-- 💻 ***Full-stack software engineer***
-  <br>
-- 🌱 I’m currently expanding my knowledge on ***Algorithms and Data Structures!***
-  <br>
-- 🚀 Working on getting my portfolio completed.
-  <br>
-- ☕ ***Food***, ***fitness***, and ***coding*** are all passions of mine!
-  <br>
-- ⚡ Fun fact, I am very good at ***ping pong*** and ***chess***!
-  <br>
-  
-</ul>
+# Hello, I am Johnathan 👋
 
+![](https://raw.githubusercontent.com/jmcroft7/jmcroft7/main/header.PNG)
 
-## Skillset
+My name is Johnathan Croft, a full stack developer who is passionate and curious about problem solving. I love building full-stack web applications and integrating APIs. Open to all messages on here, [Twitter](https://www.twitter.com/devjohnathan), and [LinkedIn](https://www.linkedin.com/in/devjohnathan)
+
+- 🌱 I’m currently expanding my knowledge on ***Web3.0 and C#***
+- 🚀 I’m always looking to collaborate on Full stack web development
+- ☕ Food, fitness, and coding are all passions of mine!
+- ⚡ Fun fact, I am very good at ping pong and chess!
+
+## My Links 🌍
+
+- [LinkedIn](https://www.linkedin.com/in/devjohnathan/)
+- [Twitter](https://twitter.com/DevJohnathan)
+- [Codepen](https://codepen.io/jmcroft7)
+
+## My skills 🚀
 
 #### *Languages*
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<ul>
+![](https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-01647B?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/CSharp-07930C?style=for-the-badge&logo=Csharp&logoColor=white)
 
-[![HTML](https://img.shields.io/badge/-HTML5-F06529?style=plastic-square&logo=html5&logoColor=ffffff)](https://www.github.com/jmcroft7)
-[![CSS](https://img.shields.io/badge/-CSS-2965f1?style=plastic-square&logo=css3&logoColor=ffffff)](https://www.github.com/jmcroft7)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=plastic-square&logo=javascript&logoColor=000000)](https://www.github.com/jmcroft7)
-
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic-square&logo=python&logoColor=ffffff)](https://www.github.com/jmcroft7)
-[![Java](https://img.shields.io/badge/-Java-339999?style=plastic-square&logo=java&logoColor=ffffff)](https://www.github.com/jmcroft7)
-
-</ul>
-
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### *Frameworks/Libraries*
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-<ul>
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-[![React](https://img.shields.io/badge/-React-57b2cc?style=plastic-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
-[![Flask](https://img.shields.io/badge/-Flask-111222?style=plastic-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
-[![Spring](https://img.shields.io/badge/-Spring-3C3A3A?style=plastic-square&logo=spring&logoColor=ffffff)](https://spring.io/tools)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7410f0?style=plastic-square&logo=bootstrap&logoColor=ffffff)](https://getbootstrap.com/)
-
-[![Node](https://img.shields.io/badge/-Node.js-68a063?style=plastic-square&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/en/)
-[![Express](https://img.shields.io/badge/-Express.js-303030?style=plastic-square&logo=express&logoColor=ffffff)](https://expressjs.com/)
-[![jQuery](https://img.shields.io/badge/-jQuery-0769ad?style=plastic-square&logo=jquery&logoColor=ffffff)](https://jquery.com/)
-
-</ul>
+![](https://img.shields.io/badge/Flask-111222?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Spring-3C3A3A?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
 #### *Databases*
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Postman-F06529?style=for-the-badge&logo=postman&logoColor=white)
 
-<ul>
+## My Live Showcases 💻
+- [JavaScript Portfolio 👨‍💻](https://jmcroft7.github.io/portfolio/)
+- [HTML/CSS Only Portfolio 👨‍💻](https://jmcroft7.github.io/portfolio2/)
 
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
-[![Postman](https://img.shields.io/badge/-Postman-F06529?style=plastic-square&logo=postman&logoColor=ffffff)](https://www.postman.com/)
-
-</ul>
-
-
-#### *Tools*
-
-<ul>
-
-[![aws](https://img.shields.io/badge/-AWS-3776AB?style=plastic-square&logo=amazonaws&logoColor=ffffff)](https://aws.amazon.com/)
-  [![Azure](https://img.shields.io/badge/-Azure-007FFF?style=plastic-square&logo=azuredevops&logoColor=ffffff)](https://azure.microsoft.com/en-us/)
-[![nginx](https://img.shields.io/badge/-Nginx-47A248?style=plastic-square&logo=nginx&logoColor=ffffff)](https://www.nginx.com/)
-
-[![linux](https://img.shields.io/badge/-Linux-3C3A3A?style=plastic-square&logo=linux&logoColor=ffffff)](https://ubuntu.com/)
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=plastic-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
-[![figma](https://img.shields.io/badge/-Figma-9d56f7?style=plastic-square&logo=figma&logoColor=ffffff)](https://www.figma.com/)
-  
-</ul>
-
-
-## Support me
-  
-<p><a href="https://www.buymeacoffee.com/jmcroft7"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jmcroft7" /></a></p>
+## My Github Stats 🦸
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcroft7&layout=standard&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
