@@ -51,4 +51,4 @@ My name is Johnathan Croft, a full stack developer who is passionate and curious
 - [HTML/CSS Only Portfolio 👨‍💻](https://jmcroft7.github.io/portfolio2/)
 
 ## My Github Stats 🦸
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcroft7&layout=standard&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcroft7&layout=standard&theme=dracula&hide=html)](https://github.com/anuraghazra/github-readme-stats)
