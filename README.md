@@ -47,8 +47,7 @@ My name is Johnathan Croft, a full stack developer who is passionate and curious
 ![](https://img.shields.io/badge/Postman-F06529?style=for-the-badge&logo=postman&logoColor=white)
 
 ## My Live Showcases 💻
-- [JavaScript Portfolio 👨‍💻](https://jmcroft7.github.io/portfolio/)
-- [HTML/CSS Only Portfolio 👨‍💻](https://jmcroft7.github.io/portfolio2/)
+- [React Website / Portfolio 👨‍💻](https://www.jmcroft.com)
 
 ## My Github Stats 🦸
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcroft7&layout=standard&theme=dracula&hide=html)](https://github.com/anuraghazra/github-readme-stats)
