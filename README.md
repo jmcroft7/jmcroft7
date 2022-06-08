@@ -6,7 +6,7 @@
 
 My name is Johnathan Croft, a full stack developer who is passionate and curious about problem solving. I love building full-stack web applications and integrating APIs. Open to all messages on here, [Twitter](https://www.twitter.com/devjohnathan), and [LinkedIn](https://www.linkedin.com/in/devjohnathan)
 
-- 🌱 I’m currently expanding my knowledge on ***Web3.0 and C#***
+- 🌱 I’m currently expanding my knowledge on ***Java and Spring**
 - 🚀 I’m always looking to collaborate on Full stack web development
 - ☕ Food, fitness, and coding are all passions of mine!
 - ⚡ Fun fact, I am very good at ping pong and chess!
@@ -14,8 +14,7 @@ My name is Johnathan Croft, a full stack developer who is passionate and curious
 ## My Links 🌍
 
 - [LinkedIn](https://www.linkedin.com/in/devjohnathan/)
-- [Twitter](https://twitter.com/DevJohnathan)
-- [Codepen](https://codepen.io/jmcroft7)
+- [React Website / Portfolio 👨‍💻](https://www.jmcroft.com)
 
 ## My skills 🚀
 
@@ -45,9 +44,6 @@ My name is Johnathan Croft, a full stack developer who is passionate and curious
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Postman-F06529?style=for-the-badge&logo=postman&logoColor=white)
-
-## My Live Showcases 💻
-- [React Website / Portfolio 👨‍💻](https://www.jmcroft.com)
 
 ## My Github Stats 🦸
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcroft7&layout=standard&theme=dracula&hide=html)](https://github.com/anuraghazra/github-readme-stats)
