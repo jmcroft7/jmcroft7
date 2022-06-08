@@ -6,7 +6,7 @@
 
 My name is Johnathan Croft, a full stack developer who is passionate and curious about problem solving. I love building full-stack web applications and integrating APIs. Open to all messages on here, [Twitter](https://www.twitter.com/devjohnathan), and [LinkedIn](https://www.linkedin.com/in/devjohnathan)
 
-- 🌱 I’m currently expanding my knowledge on ***Java and Spring**
+- 🌱 I’m currently expanding my knowledge on **Java and Spring**
 - 🚀 I’m always looking to collaborate on Full stack web development
 - ☕ Food, fitness, and coding are all passions of mine!
 - ⚡ Fun fact, I am very good at ping pong and chess!
