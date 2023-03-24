@@ -42,5 +42,13 @@ I am primarily a Java, React, and AWS developer who has a passion for solving pr
 
 </p>
 
+### ***Socials*** 😄
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/devjohnathan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/devjohnathan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+
+</p>
+
 ## My Github Stats 🦸
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcroft7&layout=standard&theme=dracula&hide=html)](https://github.com/anuraghazra/github-readme-stats)
