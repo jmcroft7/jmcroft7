@@ -1,49 +1,46 @@
 <img src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=499b4a&style=flat" alt="a" />
 
-# Hello, I am Johnathan 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Johnathan Croft
+=======================================================================================================================================
 
-![](https://raw.githubusercontent.com/jmcroft7/jmcroft7/main/header.PNG)
+SDE & Full Stack Developer 
+--------------------------
+I am primarily a Java, React, and AWS developer who has a passion for solving problems!
 
-My name is Johnathan Croft, a full stack developer who is passionate and curious about problem solving. I love building full-stack web applications and integrating APIs. Open to all messages on here, [Twitter](https://www.twitter.com/devjohnathan), and [LinkedIn](https://www.linkedin.com/in/devjohnathan)
+*   🌍  I'm based in Minnesota
+*   🖥️  See my portfolio at [www.jmcroft.com](http://www.jmcroft.com/)
+*   ✉️  You can contact me at [croftmjohn@gmail.com](mailto:croftmjohn@gmail.com)
+*   🤝  I'm open to collaborating on Java or React projects
+*   ☕ Food, fitness, and coding are all passions of mine!
 
-- 🌱 I’m currently expanding my knowledge on **Java and Spring**
-- 🚀 I’m always looking to collaborate on Full stack web development
-- ☕ Food, fitness, and coding are all passions of mine!
-- ⚡ Fun fact, I am very good at ping pong and chess!
+### ***My Skills***  🚀
 
-## My Links 🌍
+<p align="left">
+  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/devjohnathan/)
-- [React Website / Portfolio 👨‍💻](https://www.jmcroft.com)
+### ***Frameworks/Libraries***  🖥️
 
-## My skills 🚀
+<p align="left">
+  
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 
-#### *Languages*
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-![](https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Java-01647B?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/CSharp-07930C?style=for-the-badge&logo=Csharp&logoColor=white)
-
-#### *Frameworks/Libraries*
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Flask-111222?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/Spring-3C3A3A?style=for-the-badge&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-
-
-#### *Databases*
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Postman-F06529?style=for-the-badge&logo=postman&logoColor=white)
+</p>
 
 ## My Github Stats 🦸
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcroft7&layout=standard&theme=dracula&hide=html)](https://github.com/anuraghazra/github-readme-stats)
