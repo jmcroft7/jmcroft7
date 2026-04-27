@@ -3,10 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 SDE & Full Stack Developer 
 --------------------------
-I am primarily a Java, React, and AWS developer who has a passion for solving problems!
+I am a full-stack software engineer specializing in Java, React, and AWS technologies with a passion for solving problems!
 
 *   🌍  I'm based in Minnesota
-*   🖥️  See my portfolio at [www.jmcroft.com](http://www.jmcroft.com/)
+*   🖥️  See my portfolio at [www.john-croft.com](https://www.john-croft.com/)
 *   ✉️  You can contact me at [croftmjohn@gmail.com](mailto:croftmjohn@gmail.com)
 *   🤝  I'm open to collaborating on Java or React projects
 *   ☕ Food, fitness, and coding are all passions of mine!
