@@ -14,4 +14,5 @@ I am primarily a Java, React, and AWS developer who has a passion for solving pr
 <img src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=499b4a&style=flat" alt="a" />
 
 ## My Github Stats 🦸
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcroft7&layout=standard&theme=dracula&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcroft7&layout=compact&theme=dark)
